@@ -1,2 +1,5 @@
 # LQCANet
-This is fusion ROD model F-RODNet. We will update its code in the shortly future.
+
+LQCANet has been accepted by IEEE Transactions on Intelligent Vehicles (TIV).
+
+This is fusion ROD model LQCANet. We will update its code in the shortly future.
